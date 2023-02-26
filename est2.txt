@@ -1,0 +1,69 @@
+üles laadima
+alla laadima
+õpimapp
+kopeerima
+kleebima
+salasõna
+kasutaja nimi
+sündmus
+muutuja
+andur
+klõpsama
+tehted
+muuda suurust
+taust
+võta suureseks
+alusta heli
+tühik
+teade
+korda X korda
+puudutama
+klahv
+pikkus
+näita
+peida
+looma
+suund
+lava
+oota
+täpne
+ühetäheduslik
+lõplik
+lahendus
+üldine
+mitu
+efektiivne
+korrektne vastus
+ristkülik
+tegevus
+rööpkülik
+sisend
+väljund
+romb
+tingimus
+ovaal
+algus
+lõpp
+nool
+suund
+käsk
+programmeerimiskeel
+süntaks
+semantika
+tähendusõppetus
+masinakeel
+assemblerkeel
+masinakäsk
+kommentaar
+viga
+muutuja
+täisarv
+ujukomaarv
+tekst
+tõeväärtus
+hargnemine
+tehe
+haru
+taane
+avaldus
+vihje
